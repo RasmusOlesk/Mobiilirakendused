@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA7C607-9738-DB93-EEAF-1B07C009E3F6}|TARge-25_Maui_Olesk\\TARge-25_Maui_Olesk.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\targe-25_maui_olesk\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA7C607-9738-DB93-EEAF-1B07C009E3F6}|TARge-25_Maui_Olesk\\TARge-25_Maui_Olesk.csproj|solutionrelative:targe-25_maui_olesk\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA7C607-9738-DB93-EEAF-1B07C009E3F6}|TARge-25_Maui_Olesk\\TARge-25_Maui_Olesk.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\targe-25_maui_olesk\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8EA7C607-9738-DB93-EEAF-1B07C009E3F6}|TARge-25_Maui_Olesk\\TARge-25_Maui_Olesk.csproj|solutionrelative:targe-25_maui_olesk\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA7C607-9738-DB93-EEAF-1B07C009E3F6}|TARge-25_Maui_Olesk\\TARge-25_Maui_Olesk.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\targe-25_maui_olesk\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8EA7C607-9738-DB93-EEAF-1B07C009E3F6}|TARge-25_Maui_Olesk\\TARge-25_Maui_Olesk.csproj|solutionrelative:targe-25_maui_olesk\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA7C607-9738-DB93-EEAF-1B07C009E3F6}|TARge-25_Maui_Olesk\\TARge-25_Maui_Olesk.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\targe-25_maui_olesk\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA7C607-9738-DB93-EEAF-1B07C009E3F6}|TARge-25_Maui_Olesk\\TARge-25_Maui_Olesk.csproj|solutionrelative:targe-25_maui_olesk\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA7C607-9738-DB93-EEAF-1B07C009E3F6}|TARge-25_Maui_Olesk\\TARge-25_Maui_Olesk.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\targe-25_maui_olesk\\targe-25_maui_olesk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8EA7C607-9738-DB93-EEAF-1B07C009E3F6}|TARge-25_Maui_Olesk\\TARge-25_Maui_Olesk.csproj|solutionrelative:targe-25_maui_olesk\\targe-25_maui_olesk.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TARge-25_Maui_Olesk\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "TARge-25_Maui_Olesk\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TARge-25_Maui_Olesk\\MainPage.xaml.cs",
+              "RelativeToolTip": "TARge-25_Maui_Olesk\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T10:55:49.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TARge-25_Maui_Olesk\\AppShell.xaml",
+              "RelativeDocumentMoniker": "TARge-25_Maui_Olesk\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TARge-25_Maui_Olesk\\AppShell.xaml",
+              "RelativeToolTip": "TARge-25_Maui_Olesk\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-01T10:55:41.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TARge-25_Maui_Olesk\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "TARge-25_Maui_Olesk\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TARge-25_Maui_Olesk\\MauiProgram.cs",
+              "RelativeToolTip": "TARge-25_Maui_Olesk\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T10:55:06.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TARge-25_Maui_Olesk\\MainPage.xaml",
+              "RelativeDocumentMoniker": "TARge-25_Maui_Olesk\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TARge-25_Maui_Olesk\\MainPage.xaml",
+              "RelativeToolTip": "TARge-25_Maui_Olesk\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-01T10:50:12.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TARge-25_Maui_Olesk.csproj",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TARge-25_Maui_Olesk\\TARge-25_Maui_Olesk.csproj",
+              "RelativeDocumentMoniker": "TARge-25_Maui_Olesk\\TARge-25_Maui_Olesk.csproj",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TARge-25_Maui_Olesk\\TARge-25_Maui_Olesk.csproj",
+              "RelativeToolTip": "TARge-25_Maui_Olesk\\TARge-25_Maui_Olesk.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-01T09:31:41.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
