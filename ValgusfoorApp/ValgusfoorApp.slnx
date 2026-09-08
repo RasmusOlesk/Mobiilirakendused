@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ValgusfoorApp/ValgusfoorApp.csproj">
+    <Deploy />
+  </Project>
+</Solution>
