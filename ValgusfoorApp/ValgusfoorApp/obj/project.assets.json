@@ -28999,11 +28999,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Mobiilrakendused_Valgusfoor\\ValgusfoorApp\\ValgusfoorApp\\ValgusfoorApp.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\ValgusfoorApp\\ValgusfoorApp\\ValgusfoorApp.csproj",
       "projectName": "ValgusfoorApp",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\Mobiilrakendused_Valgusfoor\\ValgusfoorApp\\ValgusfoorApp\\ValgusfoorApp.csproj",
+      "projectPath": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\ValgusfoorApp\\ValgusfoorApp\\ValgusfoorApp.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\Mobiilrakendused_Valgusfoor\\ValgusfoorApp\\ValgusfoorApp\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\ValgusfoorApp\\ValgusfoorApp\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

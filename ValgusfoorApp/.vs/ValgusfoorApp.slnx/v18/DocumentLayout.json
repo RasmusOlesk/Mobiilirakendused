@@ -1,22 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\Mobiilrakendused_Valgusfoor\\ValgusfoorApp\\",
+  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\ValgusfoorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8F3D532-5D41-4A30-937D-B3B0E611EBF6}|ValgusfoorApp\\ValgusfoorApp.csproj|c:\\users\\opilane\\source\\repos\\mobiilrakendused_valgusfoor\\valgusfoorapp\\valgusfoorapp\\valgusfoorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8F3D532-5D41-4A30-937D-B3B0E611EBF6}|ValgusfoorApp\\ValgusfoorApp.csproj|solutionrelative:valgusfoorapp\\valgusfoorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9E6DB55-DE5E-BE59-05D1-A426E65785C9}|ValgusfoorApp\\ValgusfoorApp.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\valgusfoorapp\\valgusfoorapp\\valgusfoorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E6DB55-DE5E-BE59-05D1-A426E65785C9}|ValgusfoorApp\\ValgusfoorApp.csproj|solutionrelative:valgusfoorapp\\valgusfoorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8F3D532-5D41-4A30-937D-B3B0E611EBF6}|ValgusfoorApp\\ValgusfoorApp.csproj|c:\\users\\opilane\\source\\repos\\mobiilrakendused_valgusfoor\\valgusfoorapp\\valgusfoorapp\\valgusfoorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E8F3D532-5D41-4A30-937D-B3B0E611EBF6}|ValgusfoorApp\\ValgusfoorApp.csproj|solutionrelative:valgusfoorapp\\valgusfoorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{E9E6DB55-DE5E-BE59-05D1-A426E65785C9}|ValgusfoorApp\\ValgusfoorApp.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\valgusfoorapp\\valgusfoorapp\\valgusfoorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9E6DB55-DE5E-BE59-05D1-A426E65785C9}|ValgusfoorApp\\ValgusfoorApp.csproj|solutionrelative:valgusfoorapp\\valgusfoorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8F3D532-5D41-4A30-937D-B3B0E611EBF6}|ValgusfoorApp\\ValgusfoorApp.csproj|c:\\users\\opilane\\source\\repos\\mobiilrakendused_valgusfoor\\valgusfoorapp\\valgusfoorapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8F3D532-5D41-4A30-937D-B3B0E611EBF6}|ValgusfoorApp\\ValgusfoorApp.csproj|solutionrelative:valgusfoorapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9E6DB55-DE5E-BE59-05D1-A426E65785C9}|ValgusfoorApp\\ValgusfoorApp.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\valgusfoorapp\\valgusfoorapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E9E6DB55-DE5E-BE59-05D1-A426E65785C9}|ValgusfoorApp\\ValgusfoorApp.csproj|solutionrelative:valgusfoorapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8F3D532-5D41-4A30-937D-B3B0E611EBF6}|ValgusfoorApp\\ValgusfoorApp.csproj|c:\\users\\opilane\\source\\repos\\mobiilrakendused_valgusfoor\\valgusfoorapp\\valgusfoorapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E8F3D532-5D41-4A30-937D-B3B0E611EBF6}|ValgusfoorApp\\ValgusfoorApp.csproj|solutionrelative:valgusfoorapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{E9E6DB55-DE5E-BE59-05D1-A426E65785C9}|ValgusfoorApp\\ValgusfoorApp.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\valgusfoorapp\\valgusfoorapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E6DB55-DE5E-BE59-05D1-A426E65785C9}|ValgusfoorApp\\ValgusfoorApp.csproj|solutionrelative:valgusfoorapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E6DB55-DE5E-BE59-05D1-A426E65785C9}|ValgusfoorApp\\ValgusfoorApp.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\valgusfoorapp\\valgusfoorapp\\valgusfoorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E9E6DB55-DE5E-BE59-05D1-A426E65785C9}|ValgusfoorApp\\ValgusfoorApp.csproj|solutionrelative:valgusfoorapp\\valgusfoorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E6DB55-DE5E-BE59-05D1-A426E65785C9}|ValgusfoorApp\\ValgusfoorApp.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\valgusfoorapp\\valgusfoorapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E9E6DB55-DE5E-BE59-05D1-A426E65785C9}|ValgusfoorApp\\ValgusfoorApp.csproj|solutionrelative:valgusfoorapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E6DB55-DE5E-BE59-05D1-A426E65785C9}|ValgusfoorApp\\ValgusfoorApp.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\valgusfoorapp\\valgusfoorapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E6DB55-DE5E-BE59-05D1-A426E65785C9}|ValgusfoorApp\\ValgusfoorApp.csproj|solutionrelative:valgusfoorapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E6DB55-DE5E-BE59-05D1-A426E65785C9}|ValgusfoorApp\\ValgusfoorApp.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\valgusfoorapp\\valgusfoorapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E6DB55-DE5E-BE59-05D1-A426E65785C9}|ValgusfoorApp\\ValgusfoorApp.csproj|solutionrelative:valgusfoorapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,55 +50,103 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilrakendused_Valgusfoor\\ValgusfoorApp\\ValgusfoorApp\\App.xaml.cs",
-              "RelativeDocumentMoniker": "ValgusfoorApp\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilrakendused_Valgusfoor\\ValgusfoorApp\\ValgusfoorApp\\App.xaml.cs",
-              "RelativeToolTip": "ValgusfoorApp\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T11:54:56.956Z",
+              "DocumentIndex": 1,
+              "Title": "ValgusfoorApp",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\ValgusfoorApp\\ValgusfoorApp\\ValgusfoorApp.csproj",
+              "RelativeDocumentMoniker": "ValgusfoorApp\\ValgusfoorApp.csproj",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\ValgusfoorApp\\ValgusfoorApp\\ValgusfoorApp.csproj",
+              "RelativeToolTip": "ValgusfoorApp\\ValgusfoorApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-14T10:55:57.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilrakendused_Valgusfoor\\ValgusfoorApp\\ValgusfoorApp\\App.xaml",
-              "RelativeDocumentMoniker": "ValgusfoorApp\\App.xaml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilrakendused_Valgusfoor\\ValgusfoorApp\\ValgusfoorApp\\App.xaml",
-              "RelativeToolTip": "ValgusfoorApp\\App.xaml",
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\ValgusfoorApp\\ValgusfoorApp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "ValgusfoorApp\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\ValgusfoorApp\\ValgusfoorApp\\AppShell.xaml.cs",
+              "RelativeToolTip": "ValgusfoorApp\\AppShell.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-09-08T11:54:54.749Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T12:32:50.575Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\ValgusfoorApp\\ValgusfoorApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ValgusfoorApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\ValgusfoorApp\\ValgusfoorApp\\App.xaml.cs",
+              "RelativeToolTip": "ValgusfoorApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T11:54:56.956Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ValgusfoorPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilrakendused_Valgusfoor\\ValgusfoorApp\\ValgusfoorApp\\ValgusfoorPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\ValgusfoorApp\\ValgusfoorApp\\ValgusfoorPage.xaml.cs",
               "RelativeDocumentMoniker": "ValgusfoorApp\\ValgusfoorPage.xaml.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilrakendused_Valgusfoor\\ValgusfoorApp\\ValgusfoorApp\\ValgusfoorPage.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\ValgusfoorApp\\ValgusfoorApp\\ValgusfoorPage.xaml.cs",
               "RelativeToolTip": "ValgusfoorApp\\ValgusfoorPage.xaml.cs",
-              "ViewState": "AgIAAJ0AAAAAAAAAAAAiwGAAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-08T11:54:29.636Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\ValgusfoorApp\\ValgusfoorApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "ValgusfoorApp\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\ValgusfoorApp\\ValgusfoorApp\\AppShell.xaml",
+              "RelativeToolTip": "ValgusfoorApp\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-08T12:32:53.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\ValgusfoorApp\\ValgusfoorApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "ValgusfoorApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\ValgusfoorApp\\ValgusfoorApp\\MauiProgram.cs",
+              "RelativeToolTip": "ValgusfoorApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T12:33:03.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\ValgusfoorApp\\ValgusfoorApp\\App.xaml",
+              "RelativeDocumentMoniker": "ValgusfoorApp\\App.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\ValgusfoorApp\\ValgusfoorApp\\App.xaml",
+              "RelativeToolTip": "ValgusfoorApp\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-08T11:54:54.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ValgusfoorPage.xaml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilrakendused_Valgusfoor\\ValgusfoorApp\\ValgusfoorApp\\ValgusfoorPage.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\ValgusfoorApp\\ValgusfoorApp\\ValgusfoorPage.xaml",
               "RelativeDocumentMoniker": "ValgusfoorApp\\ValgusfoorPage.xaml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilrakendused_Valgusfoor\\ValgusfoorApp\\ValgusfoorApp\\ValgusfoorPage.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\ValgusfoorApp\\ValgusfoorApp\\ValgusfoorPage.xaml",
               "RelativeToolTip": "ValgusfoorApp\\ValgusfoorPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-09-08T11:53:09.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-08T11:53:09.279Z"
             }
           ]
         }

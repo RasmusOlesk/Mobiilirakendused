@@ -20,13 +20,13 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ValgusfoorApp
-build_property.ProjectDir = C:\Users\opilane\source\repos\Mobiilrakendused_Valgusfoor\ValgusfoorApp\ValgusfoorApp\
+build_property.ProjectDir = C:\Users\opilane\source\repos\TARge-25_Olesk\Mobiilirakendused\ValgusfoorApp\ValgusfoorApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/opilane/source/repos/Mobiilrakendused_Valgusfoor/ValgusfoorApp/ValgusfoorApp/App.xaml]
+[C:/Users/opilane/source/repos/TARge-25_Olesk/Mobiilirakendused/ValgusfoorApp/ValgusfoorApp/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ValgusfoorApp.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
@@ -36,7 +36,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[C:/Users/opilane/source/repos/Mobiilrakendused_Valgusfoor/ValgusfoorApp/ValgusfoorApp/AppShell.xaml]
+[C:/Users/opilane/source/repos/TARge-25_Olesk/Mobiilirakendused/ValgusfoorApp/ValgusfoorApp/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ValgusfoorApp.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
@@ -46,7 +46,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[C:/Users/opilane/source/repos/Mobiilrakendused_Valgusfoor/ValgusfoorApp/ValgusfoorApp/Resources/Styles/Colors.xaml]
+[C:/Users/opilane/source/repos/TARge-25_Olesk/Mobiilirakendused/ValgusfoorApp/ValgusfoorApp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ValgusfoorApp.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
@@ -56,7 +56,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[C:/Users/opilane/source/repos/Mobiilrakendused_Valgusfoor/ValgusfoorApp/ValgusfoorApp/Resources/Styles/Styles.xaml]
+[C:/Users/opilane/source/repos/TARge-25_Olesk/Mobiilirakendused/ValgusfoorApp/ValgusfoorApp/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ValgusfoorApp.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
@@ -66,7 +66,7 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
-[C:/Users/opilane/source/repos/Mobiilrakendused_Valgusfoor/ValgusfoorApp/ValgusfoorApp/ValgusfoorPage.xaml]
+[C:/Users/opilane/source/repos/TARge-25_Olesk/Mobiilirakendused/ValgusfoorApp/ValgusfoorApp/ValgusfoorPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ValgusfoorApp.ValgusfoorPage.xaml
 build_metadata.AdditionalFiles.TargetPath = ValgusfoorPage.xaml

@@ -1,4 +1,4 @@
-<api type="debug" assembly-name="ValgusfoorApp" mvid="e4233172ee9f4c94a3dcb2d1cd8b6b98">
+<api type="debug" assembly-name="ValgusfoorApp" mvid="6c8fe197dfec4b638604c42a5366b8e9">
   <java-to-managed>
     <entry java-name="crc64e4943246154e308d/MainActivity" managed-name="ValgusfoorApp.MainActivity, ValgusfoorApp" managed-type-token-id="33554441" />
     <entry java-name="crc64e4943246154e308d/MainApplication" managed-name="ValgusfoorApp.MainApplication, ValgusfoorApp" managed-type-token-id="33554442" />

@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lumememm.MainPage"
+             Title="Lumememm">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="15">
+
+            <Label Text="⛄ Lumememm"
+                   FontSize="30"
+                   HorizontalOptions="Center"
+                   FontAttributes="Bold"/>
+
+            <!-- Lumememm -->
+            <AbsoluteLayout
+                x:Name="SnowmanLayout"
+                HeightRequest="400"
+                BackgroundColor="LightBlue">
+
+                <!-- Keha -->
+                <Frame x:Name="Body"
+                       BackgroundColor="White"
+                       CornerRadius="100"
+                       HasShadow="True"
+                       AbsoluteLayout.LayoutBounds="0.5,0.75,180,180"
+                       AbsoluteLayout.LayoutFlags="PositionProportional">
+                </Frame>
+
+                <!-- Pea -->
+                <Frame x:Name="Head"
+                       BackgroundColor="White"
+                       CornerRadius="70"
+                       HasShadow="True"
+                       AbsoluteLayout.LayoutBounds="0.5,0.32,130,130"
+                       AbsoluteLayout.LayoutFlags="PositionProportional">
+                </Frame>
+
+                <!-- Silmad -->
+                <BoxView x:Name="LeftEye"
+                         Color="Black"
+                         CornerRadius="10"
+                         AbsoluteLayout.LayoutBounds="0.46,0.30,15,15"
+                         AbsoluteLayout.LayoutFlags="PositionProportional"/>
+
+                <BoxView x:Name="RightEye"
+                         Color="Black"
+                         CornerRadius="10"
+                         AbsoluteLayout.LayoutBounds="0.54,0.30,15,15"
+                         AbsoluteLayout.LayoutFlags="PositionProportional"/>
+
+                <!-- Nina -->
+                <BoxView x:Name="Nose"
+                         Color="Orange"
+                         Rotation="90"
+                         AbsoluteLayout.LayoutBounds="0.5,0.37,10,45"
+                         AbsoluteLayout.LayoutFlags="PositionProportional"/>
+
+                <!-- Nööbid -->
+                <BoxView x:Name="Button1"
+                         Color="Black"
+                         CornerRadius="10"
+                         AbsoluteLayout.LayoutBounds="0.5,0.62,15,15"
+                         AbsoluteLayout.LayoutFlags="PositionProportional"/>
+
+                <BoxView x:Name="Button2"
+                         Color="Black"
+                         CornerRadius="10"
+                         AbsoluteLayout.LayoutBounds="0.5,0.73,15,15"
+                         AbsoluteLayout.LayoutFlags="PositionProportional"/>
+
+                <BoxView x:Name="Button3"
+                         Color="Black"
+                         CornerRadius="10"
+                         AbsoluteLayout.LayoutBounds="0.5,0.84,15,15"
+                         AbsoluteLayout.LayoutFlags="PositionProportional"/>
+
+                <!-- Ämber -->
+                <Frame x:Name="Bucket"
+                       BackgroundColor="Red"
+                       CornerRadius="10"
+                       HasShadow="True"
+                       AbsoluteLayout.LayoutBounds="0.5,0.16,100,45"
+                       AbsoluteLayout.LayoutFlags="PositionProportional">
+                </Frame>
+
+            </AbsoluteLayout>
+
+            <!-- Tegevuse valimine -->
+            <Picker x:Name="ActionPicker"
+                    Title="Vali tegevus">
+                <Picker.Items>
+                    <x:String>Peida lumememm</x:String>
+                    <x:String>Näita lumememm</x:String>
+                    <x:String>Muuda värvi</x:String>
+                    <x:String>Sulata</x:String>
+                    <x:String>Tantsi</x:String>
+                </Picker.Items>
+            </Picker>
+
+            <Button Text="Käivita tegevus"
+                    Clicked="OnActionClicked"/>
+
+            <Label x:Name="ActionLabel"
+                   Text="Valitud tegevus: -"
+                   FontSize="18"
+                   HorizontalOptions="Center"/>
+
+            <!-- Läbipaistvus -->
+            <Label Text="Lumememme läbipaistvus"/>
+
+            <Slider x:Name="OpacitySlider"
+                    Minimum="0"
+                    Maximum="1"
+                    Value="1"
+                    ValueChanged="OnOpacityChanged"/>
+
+            <!-- Kiirus -->
+            <Label Text="Tegevuse kiirus"/>
+
+            <Stepper x:Name="SpeedStepper"
+                     Minimum="1"
+                     Maximum="10"
+                     Increment="1"
+                     Value="5"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
