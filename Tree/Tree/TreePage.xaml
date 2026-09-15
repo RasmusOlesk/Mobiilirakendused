@@ -18,9 +18,10 @@
                             BackgroundColor="#87CEEB">
 
                 <!-- Päike -->
-                <BoxView x:Name="Sun"
-                         Color="#FFD700"
-                         CornerRadius="50"
+                
+                
+                <Ellipse 
+                         Fill="#FFD700"
                          WidthRequest="60"
                          HeightRequest="60"
                          AbsoluteLayout.LayoutBounds="0.8,0.15,60,60"
@@ -29,65 +30,65 @@
                 <!-- Puu tüvi -->
                 <BoxView x:Name="Trunk"
                          Color="#8B4513"
-                         WidthRequest="60"
-                         HeightRequest="220"
-                         AbsoluteLayout.LayoutBounds="0.5,0.72,60,220"
+                         WidthRequest="44"
+                         HeightRequest="160"
+                         AbsoluteLayout.LayoutBounds="0.5,0.65,44,160"
                          AbsoluteLayout.LayoutFlags="PositionProportional" />
 
                 <!-- Lehestik -->
                 <Grid x:Name="Leaves"
-                      WidthRequest="230"
-                      HeightRequest="230"
-                      AbsoluteLayout.LayoutBounds="0.5,0.25,230,230"
+                      WidthRequest="150"
+                      HeightRequest="150"
+                      AbsoluteLayout.LayoutBounds="0.5,0.25,160,160"
                       AbsoluteLayout.LayoutFlags="PositionProportional">
 
                     <Ellipse Fill="#228B22"
-                             WidthRequest="150"
-                             HeightRequest="150"
+                             WidthRequest="108"
+                             HeightRequest="108"
                              HorizontalOptions="Center"
                              VerticalOptions="Center" />
 
                     <Ellipse Fill="#32CD32"
-                             WidthRequest="100"
-                             HeightRequest="100"
+                             WidthRequest="72"
+                             HeightRequest="72"
                              HorizontalOptions="Start"
                              VerticalOptions="Center" />
 
                     <Ellipse Fill="#2E8B57"
-                             WidthRequest="100"
-                             HeightRequest="100"
+                             WidthRequest="72"
+                             HeightRequest="72"
                              HorizontalOptions="End"
                              VerticalOptions="Center" />
 
                     <Ellipse Fill="#3CB371"
-                             WidthRequest="90"
-                             HeightRequest="90"
+                             WidthRequest="64"
+                             HeightRequest="64"
                              HorizontalOptions="Center"
                              VerticalOptions="Start" />
 
                     <!-- Õied -->
                     <Ellipse x:Name="Flower1"
                              Fill="#FF69B4"
-                             WidthRequest="25"
-                             HeightRequest="25"
-                             TranslationX="-55"
-                             TranslationY="-40"
+                             WidthRequest="18"
+                             HeightRequest="18"
+                             TranslationX="-38"
+                             TranslationY="-28"
                              IsVisible="False" />
 
                     <Ellipse x:Name="Flower2"
                              Fill="#FF1493"
-                             WidthRequest="25"
-                             HeightRequest="25"
-                             TranslationX="45"
-                             TranslationY="-20"
+                             WidthRequest="18"
+                             HeightRequest="18"
+                             TranslationX="32"
+                             TranslationY="-14"
                              IsVisible="False" />
 
                     <Ellipse x:Name="Flower3"
                              Fill="#FFC0CB"
-                             WidthRequest="25"
-                             HeightRequest="25"
-                             TranslationX="10"
-                             TranslationY="45"
+                             WidthRequest="18"
+                             HeightRequest="18"
+                             TranslationX="6"
+                             TranslationY="32"
                              IsVisible="False" />
                 </Grid>
 
