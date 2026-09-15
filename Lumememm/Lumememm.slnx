@@ -2,4 +2,7 @@
   <Project Path="Lumememm/Lumememm.csproj">
     <Deploy />
   </Project>
+  <Project Path="Puu/Tree.csproj" Id="62c505bc-772f-45e9-b019-18027c559723">
+    <Deploy />
+  </Project>
 </Solution>

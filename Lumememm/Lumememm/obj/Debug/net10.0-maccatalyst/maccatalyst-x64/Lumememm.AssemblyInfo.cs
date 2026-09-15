@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lumememm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+e59372b4029c2dfa4328f62a47b76b3b8b0aad68")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+9039421583974297a9efde8d1d69325b32224a45")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lumememm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lumememm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

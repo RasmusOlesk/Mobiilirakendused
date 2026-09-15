@@ -51,15 +51,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ValgusfoorApp",
+              "Title": "ValgusfoorApp.csproj",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\ValgusfoorApp\\ValgusfoorApp\\ValgusfoorApp.csproj",
               "RelativeDocumentMoniker": "ValgusfoorApp\\ValgusfoorApp.csproj",
               "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\ValgusfoorApp\\ValgusfoorApp\\ValgusfoorApp.csproj",
               "RelativeToolTip": "ValgusfoorApp\\ValgusfoorApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-14T10:55:57.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T10:55:57.073Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "ValgusfoorApp\\AppShell.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T12:32:50.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-08T12:32:50.575Z"
             },
             {
               "$type": "Document",
@@ -109,8 +107,7 @@
               "RelativeToolTip": "ValgusfoorApp\\AppShell.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-09-08T12:32:53.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-08T12:32:53.301Z"
             },
             {
               "$type": "Document",

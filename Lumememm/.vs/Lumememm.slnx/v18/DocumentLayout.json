@@ -3,32 +3,71 @@
   "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC0D7CED-CD4D-4BB2-A0DF-0190513B071D}|Lumememm\\Lumememm.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\lumememm\\lumememm\\lumememmpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CC0D7CED-CD4D-4BB2-A0DF-0190513B071D}|Lumememm\\Lumememm.csproj|solutionrelative:lumememm\\lumememmpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A901A236-86FB-2932-A7BC-BE2F3E568C58}|Lumememm\\Lumememm.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\lumememm\\lumememm\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A901A236-86FB-2932-A7BC-BE2F3E568C58}|Lumememm\\Lumememm.csproj|solutionrelative:lumememm\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC0D7CED-CD4D-4BB2-A0DF-0190513B071D}|Lumememm\\Lumememm.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\lumememm\\lumememm\\lumememmpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC0D7CED-CD4D-4BB2-A0DF-0190513B071D}|Lumememm\\Lumememm.csproj|solutionrelative:lumememm\\lumememmpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A901A236-86FB-2932-A7BC-BE2F3E568C58}|Lumememm\\Lumememm.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\lumememm\\lumememm\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A901A236-86FB-2932-A7BC-BE2F3E568C58}|Lumememm\\Lumememm.csproj|solutionrelative:lumememm\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC0D7CED-CD4D-4BB2-A0DF-0190513B071D}|Lumememm\\Lumememm.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\lumememm\\lumememm\\lumememm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CC0D7CED-CD4D-4BB2-A0DF-0190513B071D}|Lumememm\\Lumememm.csproj|solutionrelative:lumememm\\lumememm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A901A236-86FB-2932-A7BC-BE2F3E568C58}|Lumememm\\Lumememm.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\lumememm\\lumememm\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A901A236-86FB-2932-A7BC-BE2F3E568C58}|Lumememm\\Lumememm.csproj|solutionrelative:lumememm\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC0D7CED-CD4D-4BB2-A0DF-0190513B071D}|Lumememm\\Lumememm.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\lumememm\\lumememm\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC0D7CED-CD4D-4BB2-A0DF-0190513B071D}|Lumememm\\Lumememm.csproj|solutionrelative:lumememm\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A901A236-86FB-2932-A7BC-BE2F3E568C58}|Lumememm\\Lumememm.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\lumememm\\lumememm\\lumememmpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A901A236-86FB-2932-A7BC-BE2F3E568C58}|Lumememm\\Lumememm.csproj|solutionrelative:lumememm\\lumememmpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC0D7CED-CD4D-4BB2-A0DF-0190513B071D}|Lumememm\\Lumememm.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\lumememm\\lumememm\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC0D7CED-CD4D-4BB2-A0DF-0190513B071D}|Lumememm\\Lumememm.csproj|solutionrelative:lumememm\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62C505BC-772F-45E9-B019-18027C559723}|Puu\\Tree.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\lumememm\\puu\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{62C505BC-772F-45E9-B019-18027C559723}|Puu\\Tree.csproj|solutionrelative:puu\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC0D7CED-CD4D-4BB2-A0DF-0190513B071D}|Lumememm\\Lumememm.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\lumememm\\lumememm\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CC0D7CED-CD4D-4BB2-A0DF-0190513B071D}|Lumememm\\Lumememm.csproj|solutionrelative:lumememm\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{62C505BC-772F-45E9-B019-18027C559723}|Puu\\Tree.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\lumememm\\puu\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{62C505BC-772F-45E9-B019-18027C559723}|Puu\\Tree.csproj|solutionrelative:puu\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC0D7CED-CD4D-4BB2-A0DF-0190513B071D}|Lumememm\\Lumememm.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\lumememm\\lumememm\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CC0D7CED-CD4D-4BB2-A0DF-0190513B071D}|Lumememm\\Lumememm.csproj|solutionrelative:lumememm\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{62C505BC-772F-45E9-B019-18027C559723}|Puu\\Tree.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\lumememm\\puu\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C505BC-772F-45E9-B019-18027C559723}|Puu\\Tree.csproj|solutionrelative:puu\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C505BC-772F-45E9-B019-18027C559723}|Puu\\Tree.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\lumememm\\puu\\tree.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62C505BC-772F-45E9-B019-18027C559723}|Puu\\Tree.csproj|solutionrelative:puu\\tree.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C505BC-772F-45E9-B019-18027C559723}|Puu\\Tree.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\lumememm\\puu\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C505BC-772F-45E9-B019-18027C559723}|Puu\\Tree.csproj|solutionrelative:puu\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C505BC-772F-45E9-B019-18027C559723}|Puu\\Puu.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\lumememm\\puu\\treepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62C505BC-772F-45E9-B019-18027C559723}|Puu\\Puu.csproj|solutionrelative:puu\\treepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C505BC-772F-45E9-B019-18027C559723}|Puu\\Puu.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\lumememm\\puu\\treepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{62C505BC-772F-45E9-B019-18027C559723}|Puu\\Puu.csproj|solutionrelative:puu\\treepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Puu\\obj\\Debug\\net10.0-windows10.0.19041.0\\win-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Puu\\obj\\Debug\\net10.0-windows10.0.19041.0\\win-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\AppData\\Local\\Temp\\.vsdbgsrc\\d939f4ad7c20612c55550d1e6e7769b30f808c39\\AppShell.xaml.sg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A901A236-86FB-2932-A7BC-BE2F3E568C58}|Lumememm\\Lumememm.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\lumememm\\lumememm\\lumememmpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A901A236-86FB-2932-A7BC-BE2F3E568C58}|Lumememm\\Lumememm.csproj|solutionrelative:lumememm\\lumememmpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A901A236-86FB-2932-A7BC-BE2F3E568C58}|Lumememm\\Lumememm.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\lumememm\\lumememm\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A901A236-86FB-2932-A7BC-BE2F3E568C58}|Lumememm\\Lumememm.csproj|solutionrelative:lumememm\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A901A236-86FB-2932-A7BC-BE2F3E568C58}|Lumememm\\Lumememm.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\lumememm\\lumememm\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A901A236-86FB-2932-A7BC-BE2F3E568C58}|Lumememm\\Lumememm.csproj|solutionrelative:lumememm\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A901A236-86FB-2932-A7BC-BE2F3E568C58}|Lumememm\\Lumememm.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\lumememm\\lumememm\\lumememm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A901A236-86FB-2932-A7BC-BE2F3E568C58}|Lumememm\\Lumememm.csproj|solutionrelative:lumememm\\lumememm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +77,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,59 +85,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "Tree",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Puu\\Tree.csproj",
+              "RelativeDocumentMoniker": "Puu\\Tree.csproj",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Puu\\Tree.csproj",
+              "RelativeToolTip": "Puu\\Tree.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-15T11:37:28.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Puu\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Puu\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Puu\\App.xaml.cs",
+              "RelativeToolTip": "Puu\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T11:34:09.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Puu\\App.xaml",
+              "RelativeDocumentMoniker": "Puu\\App.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Puu\\App.xaml",
+              "RelativeToolTip": "Puu\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-15T11:33:09.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Puu\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Puu\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Puu\\AppShell.xaml",
+              "RelativeToolTip": "Puu\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-15T11:30:39.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "LumememmPage.xaml",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Lumememm\\LumememmPage.xaml",
               "RelativeDocumentMoniker": "Lumememm\\LumememmPage.xaml",
               "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Lumememm\\LumememmPage.xaml",
               "RelativeToolTip": "Lumememm\\LumememmPage.xaml",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAAAH0AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-09-14T11:17:15.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
+              "Title": "TreePage.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Puu\\TreePage.xaml",
+              "RelativeDocumentMoniker": "Puu\\TreePage.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Puu\\TreePage.xaml",
+              "RelativeToolTip": "Puu\\TreePage.xaml",
+              "ViewState": "AgIAAIMAAAAAAAAAAAA1wKoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-15T11:04:01.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TreePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Puu\\TreePage.xaml.cs",
+              "RelativeDocumentMoniker": "Puu\\TreePage.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Puu\\TreePage.xaml.cs",
+              "RelativeToolTip": "Puu\\TreePage.xaml.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAkwAUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T11:04:22.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LumememmPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Lumememm\\LumememmPage.xaml.cs",
               "RelativeDocumentMoniker": "Lumememm\\LumememmPage.xaml.cs",
               "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Lumememm\\LumememmPage.xaml.cs",
               "RelativeToolTip": "Lumememm\\LumememmPage.xaml.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAAwHkAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-14T10:57:35.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Lumememm\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "Lumememm\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Lumememm\\AppShell.xaml.cs",
-              "RelativeToolTip": "Lumememm\\AppShell.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T10:56:45.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Lumememm\\App.xaml.cs",
-              "RelativeDocumentMoniker": "Lumememm\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Lumememm\\App.xaml.cs",
-              "RelativeToolTip": "Lumememm\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T10:56:40.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Lumememm\\AppShell.xaml",
               "RelativeDocumentMoniker": "Lumememm\\AppShell.xaml",
@@ -111,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Lumememm\\App.xaml",
               "RelativeDocumentMoniker": "Lumememm\\App.xaml",
@@ -124,8 +215,86 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Lumememm",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Lumememm\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Lumememm\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Lumememm\\App.xaml.cs",
+              "RelativeToolTip": "Lumememm\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T10:56:40.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppShell.xaml.sg.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\AppData\\Local\\Temp\\.vsdbgsrc\\d939f4ad7c20612c55550d1e6e7769b30f808c39\\AppShell.xaml.sg.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\d939f4ad7c20612c55550d1e6e7769b30f808c39\\AppShell.xaml.sg.cs",
+              "ToolTip": "C:\\Users\\opilane\\AppData\\Local\\Temp\\.vsdbgsrc\\d939f4ad7c20612c55550d1e6e7769b30f808c39\\AppShell.xaml.sg.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\d939f4ad7c20612c55550d1e6e7769b30f808c39\\AppShell.xaml.sg.cs [Read Only]",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T11:30:03.895Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Puu\\obj\\Debug\\net10.0-windows10.0.19041.0\\win-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "Puu\\obj\\Debug\\net10.0-windows10.0.19041.0\\win-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Puu\\obj\\Debug\\net10.0-windows10.0.19041.0\\win-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "Puu\\obj\\Debug\\net10.0-windows10.0.19041.0\\win-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T11:31:01.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Puu\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Puu\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Puu\\AppShell.xaml.cs",
+              "RelativeToolTip": "Puu\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T11:33:14.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Lumememm\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Lumememm\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Lumememm\\MauiProgram.cs",
+              "RelativeToolTip": "Lumememm\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T11:04:31.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Lumememm\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Lumememm\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Lumememm\\AppShell.xaml.cs",
+              "RelativeToolTip": "Lumememm\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T10:56:45.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Lumememm.csproj",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Lumememm\\Lumememm.csproj",
               "RelativeDocumentMoniker": "Lumememm\\Lumememm.csproj",
               "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Lumememm\\Lumememm\\Lumememm.csproj",

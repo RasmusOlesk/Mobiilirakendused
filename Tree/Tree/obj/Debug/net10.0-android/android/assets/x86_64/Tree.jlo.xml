@@ -1,0 +1,15 @@
+<api>
+  <jcw-types>
+    <type name="MainActivity" package="crc6478cba6c09ca5b363" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiAppCompatActivity" partial_assembly_qualified_name="Tree.MainActivity, Tree">
+      <constructors>
+        <constructor name="MainActivity" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+        <constructor name="MainActivity" method="n_.ctor:(I)V:" jni_signature="(I)V" managed_parameters="System.Int32, System.Private.CoreLib" params="int p0" retval="void" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
+      </constructors>
+    </type>
+    <type name="MainApplication" package="crc6478cba6c09ca5b363" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiApplication" is_application="True" partial_assembly_qualified_name="Tree.MainApplication, Tree" application_constructor="MainApplication" />
+  </jcw-types>
+  <acw-types partial-assembly-name="Tree" module-name="Tree.dll">
+    <type assembly-qualified-name="Tree.MainActivity, Tree, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="tree.MainActivity" java-key="crc6478cba6c09ca5b363.MainActivity" managed-key="Tree.MainActivity" partial-assembly-qualified-name="Tree.MainActivity, Tree" />
+    <type assembly-qualified-name="Tree.MainApplication, Tree, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="tree.MainApplication" java-key="crc6478cba6c09ca5b363.MainApplication" managed-key="Tree.MainApplication" partial-assembly-qualified-name="Tree.MainApplication, Tree" />
+  </acw-types>
+</api>

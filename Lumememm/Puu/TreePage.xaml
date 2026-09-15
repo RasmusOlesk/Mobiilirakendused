@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tree.TreePage"
+             Title="Puu hooajad">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="12">
+
+            <Label Text="🌳 Puu hooajad ja elutsükkel"
+                   FontSize="26"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center" />
+
+            <!-- PUU -->
+            <AbsoluteLayout x:Name="TreeArea"
+                            HeightRequest="450"
+                            BackgroundColor="#87CEEB">
+
+                <!-- Päike -->
+                <BoxView x:Name="Sun"
+                         Color="#FFD700"
+                         CornerRadius="50"
+                         WidthRequest="60"
+                         HeightRequest="60"
+                         AbsoluteLayout.LayoutBounds="0.8,0.15,60,60"
+                         AbsoluteLayout.LayoutFlags="None" />
+
+                <!-- Puu tüvi -->
+                <BoxView x:Name="Trunk"
+                         Color="#8B4513"
+                         WidthRequest="60"
+                         HeightRequest="220"
+                         AbsoluteLayout.LayoutBounds="0.5,0.72,60,220"
+                         AbsoluteLayout.LayoutFlags="PositionProportional" />
+
+                <!-- Lehestik -->
+                <Grid x:Name="Leaves"
+                      WidthRequest="230"
+                      HeightRequest="230"
+                      AbsoluteLayout.LayoutBounds="0.5,0.25,230,230"
+                      AbsoluteLayout.LayoutFlags="PositionProportional">
+
+                    <Ellipse Fill="#228B22"
+                             WidthRequest="150"
+                             HeightRequest="150"
+                             HorizontalOptions="Center"
+                             VerticalOptions="Center" />
+
+                    <Ellipse Fill="#32CD32"
+                             WidthRequest="100"
+                             HeightRequest="100"
+                             HorizontalOptions="Start"
+                             VerticalOptions="Center" />
+
+                    <Ellipse Fill="#2E8B57"
+                             WidthRequest="100"
+                             HeightRequest="100"
+                             HorizontalOptions="End"
+                             VerticalOptions="Center" />
+
+                    <Ellipse Fill="#3CB371"
+                             WidthRequest="90"
+                             HeightRequest="90"
+                             HorizontalOptions="Center"
+                             VerticalOptions="Start" />
+
+                    <!-- Õied -->
+                    <Ellipse x:Name="Flower1"
+                             Fill="#FF69B4"
+                             WidthRequest="25"
+                             HeightRequest="25"
+                             TranslationX="-55"
+                             TranslationY="-40"
+                             IsVisible="False" />
+
+                    <Ellipse x:Name="Flower2"
+                             Fill="#FF1493"
+                             WidthRequest="25"
+                             HeightRequest="25"
+                             TranslationX="45"
+                             TranslationY="-20"
+                             IsVisible="False" />
+
+                    <Ellipse x:Name="Flower3"
+                             Fill="#FFC0CB"
+                             WidthRequest="25"
+                             HeightRequest="25"
+                             TranslationX="10"
+                             TranslationY="45"
+                             IsVisible="False" />
+                </Grid>
+
+            </AbsoluteLayout>
+
+            <!-- TEGEVUSE VALIMINE -->
+            <Picker x:Name="ActionPicker"
+                    Title="Vali tegevus">
+                <Picker.Items>
+                    <x:String>Kasva</x:String>
+                    <x:String>Õitse</x:String>
+                    <x:String>Värise</x:String>
+                    <x:String>Langeta</x:String>
+                </Picker.Items>
+            </Picker>
+
+            <Button Text="Käivita"
+                    Clicked="OnRunClicked"
+                    BackgroundColor="#4CAF50"
+                    TextColor="White" />
+
+            <!-- INFO -->
+            <Label x:Name="InfoLabel"
+                   Text="Vali tegevus ja vajuta Käivita."
+                   FontSize="16"
+                   HorizontalOptions="Center"
+                   HorizontalTextAlignment="Center" />
+
+            <!-- LÄBIPAISTVUS -->
+            <Label Text="Lehestiku läbipaistvus"
+                   FontAttributes="Bold" />
+
+            <Slider x:Name="OpacitySlider"
+                    Minimum="0"
+                    Maximum="1"
+                    Value="1"
+                    ValueChanged="OnOpacityChanged" />
+
+            <Label x:Name="OpacityLabel"
+                   Text="1.00"
+                   HorizontalOptions="Center" />
+
+            <!-- ANIMATSIOONI KIIRUS -->
+            <Label Text="Animatsiooni kestus (ms)"
+                   FontAttributes="Bold" />
+
+            <HorizontalStackLayout HorizontalOptions="Center"
+                                   Spacing="20">
+
+                <Button Text="-"
+                        FontSize="20"
+                        Clicked="OnMinusClicked" />
+
+                <Label x:Name="SpeedLabel"
+                       Text="1000 ms"
+                       FontSize="18"
+                       VerticalOptions="Center" />
+
+                <Button Text="+"
+                        FontSize="20"
+                        Clicked="OnPlusClicked" />
+
+            </HorizontalStackLayout>
+
+            <!-- KUUPÄEV -->
+            <Label Text="Virtuaalne kuupäev"
+                   FontAttributes="Bold" />
+
+            <DatePicker x:Name="VirtualDate"
+                        DateSelected="OnDateSelected" />
+
+            <!-- KELLAAEG -->
+            <Label Text="Virtuaalne kellaaeg"
+                   FontAttributes="Bold" />
+
+            <TimePicker x:Name="VirtualTime" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
