@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PH8XHmzAPkk=",
+  "dgSpecHash": "6sbYy/7bPU8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Tree\\Tree\\Tree.csproj",
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\Tree\\Tree\\Tree.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\opilane\\.nuget\\packages\\googlegson\\2.13.1.1\\googlegson.2.13.1.1.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.0\\microsoft.extensions.configuration.10.0.0.nupkg.sha512",

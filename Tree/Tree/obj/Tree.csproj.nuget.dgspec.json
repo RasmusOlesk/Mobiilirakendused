@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Tree\\Tree\\Tree.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\Tree\\Tree\\Tree.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Tree\\Tree\\Tree.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\Tree\\Tree\\Tree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Tree\\Tree\\Tree.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\Tree\\Tree\\Tree.csproj",
         "projectName": "Tree",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Tree\\Tree\\Tree.csproj",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\Tree\\Tree\\Tree.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\Tree\\Tree\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\Tree\\Tree\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
