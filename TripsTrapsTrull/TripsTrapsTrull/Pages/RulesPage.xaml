@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<ContentPage
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="TripsTrapsTrull.RulesPage"
+    Title="Reeglid">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="25"
+            Spacing="15">
+
+            <Label
+                Text="Trips-Traps-Trulli reeglid"
+                FontSize="28"
+                FontAttributes="Bold"
+                HorizontalOptions="Center" />
+
+            <Label
+                Text="1. Mäng toimub 3x3 mängulaual."
+                FontSize="18" />
+
+            <Label
+                Text="2. Üks mängija kasutab sümbolit X ja teine sümbolit O."
+                FontSize="18" />
+
+            <Label
+                Text="3. Mängijad teevad kordamööda käike."
+                FontSize="18" />
+
+            <Label
+                Text="4. Võidab mängija, kes saab kolm enda sümbolit järjest horisontaalselt, vertikaalselt või diagonaalselt."
+                FontSize="18" />
+
+            <Label
+                Text="5. Kui kõik ruudud on täidetud ja keegi ei ole võitnud, on tulemuseks viik."
+                FontSize="18" />
+
+            <Label
+                Text="6. Nupust „Uus mäng“ saab alustada uut mängu."
+                FontSize="18" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

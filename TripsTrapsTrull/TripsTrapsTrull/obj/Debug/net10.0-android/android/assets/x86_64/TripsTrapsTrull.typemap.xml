@@ -1,0 +1,10 @@
+<api type="debug" assembly-name="TripsTrapsTrull" mvid="b85a1ef919ec4e778dbc494ec4e135cc">
+  <java-to-managed>
+    <entry java-name="crc645cb6fc588c14fec2/MainActivity" managed-name="TripsTrapsTrull.MainActivity, TripsTrapsTrull" managed-type-token-id="33554442" />
+    <entry java-name="crc645cb6fc588c14fec2/MainApplication" managed-name="TripsTrapsTrull.MainApplication, TripsTrapsTrull" managed-type-token-id="33554443" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="crc645cb6fc588c14fec2/MainActivity" managed-name="TripsTrapsTrull.MainActivity, TripsTrapsTrull" managed-type-token-id="33554442" />
+    <entry java-name="crc645cb6fc588c14fec2/MainApplication" managed-name="TripsTrapsTrull.MainApplication, TripsTrapsTrull" managed-type-token-id="33554443" />
+  </managed-to-java>
+</api>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<ContentPage
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="TripsTrapsTrull.MainPage">
+
+
+    <VerticalStackLayout
+        Padding="20"
+        Spacing="15">
+
+        <Label
+            Text="TRIPS-TRAPS-TRULL"
+            FontSize="28"
+            FontAttributes="Bold"
+            HorizontalOptions="Center" />
+
+        <Label
+            x:Name="TurnLabel"
+            Text="X kord"
+            FontSize="20"
+            HorizontalOptions="Center" />
+
+        <Border
+        x:Name="GameBorder"
+        HeightRequest="370"
+        WidthRequest="370"
+        HorizontalOptions="Center"
+        StrokeThickness="9"
+        Stroke="Black"
+        BackgroundColor="Black"
+        StrokeShape="RoundRectangle 20">
+        
+
+
+            <Grid
+            x:Name="GameGrid"
+            RowSpacing="3"
+            ColumnSpacing="3"
+            BackgroundColor="Black">
+
+            </Grid>
+
+        </Border>
+
+
+        <HorizontalStackLayout
+            HorizontalOptions="Center"
+            Spacing="10">
+
+            <Button
+                Text="Uus mäng"
+                Clicked="NewGame_Clicked" />
+
+            <Button
+                Text="Kes alustab?"
+                Clicked="WhoStarts_Clicked" />
+
+        </HorizontalStackLayout>
+
+  
+
+        <Label
+            x:Name="ScoreLabel"
+            Text="X: 0   O: 0   Viigid: 0"
+            FontSize="18"
+            HorizontalOptions="Center" />
+
+    </VerticalStackLayout>
+
+</ContentPage>
