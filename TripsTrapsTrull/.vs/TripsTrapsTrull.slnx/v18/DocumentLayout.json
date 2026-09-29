@@ -1,45 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TripsTrapsTrull\\",
+  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8AF6302-66E6-4D56-A0B0-5BA519057078}|TripsTrapsTrull\\TripsTrapsTrull.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\tripstrapstrull\\tripstrapstrull\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8AF6302-66E6-4D56-A0B0-5BA519057078}|TripsTrapsTrull\\TripsTrapsTrull.csproj|solutionrelative:tripstrapstrull\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused\\tripstrapstrull\\tripstrapstrull\\pages\\tripstrapstrullpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|solutionrelative:tripstrapstrull\\pages\\tripstrapstrullpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8AF6302-66E6-4D56-A0B0-5BA519057078}|TripsTrapsTrull\\TripsTrapsTrull.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\tripstrapstrull\\tripstrapstrull\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F8AF6302-66E6-4D56-A0B0-5BA519057078}|TripsTrapsTrull\\TripsTrapsTrull.csproj|solutionrelative:tripstrapstrull\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused\\tripstrapstrull\\tripstrapstrull\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|solutionrelative:tripstrapstrull\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused\\tripstrapstrull\\tripstrapstrull\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|solutionrelative:tripstrapstrull\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused\\tripstrapstrull\\tripstrapstrull\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|solutionrelative:tripstrapstrull\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused\\tripstrapstrull\\tripstrapstrull\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|solutionrelative:tripstrapstrull\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused\\tripstrapstrull\\tripstrapstrull\\pages\\tripstrapstrullpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|solutionrelative:tripstrapstrull\\pages\\tripstrapstrullpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused\\tripstrapstrull\\tripstrapstrull\\pages\\rulespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|solutionrelative:tripstrapstrull\\pages\\rulespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused\\tripstrapstrull\\tripstrapstrull\\tripstrapstrull.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|solutionrelative:tripstrapstrull\\tripstrapstrull.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused\\tripstrapstrull\\tripstrapstrull\\platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|solutionrelative:tripstrapstrull\\platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused\\tripstrapstrull\\tripstrapstrull\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|solutionrelative:tripstrapstrull\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused\\tripstrapstrull\\tripstrapstrull\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|solutionrelative:tripstrapstrull\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused\\tripstrapstrull\\tripstrapstrull\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|solutionrelative:tripstrapstrull\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused\\tripstrapstrull\\tripstrapstrull\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|solutionrelative:tripstrapstrull\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused\\tripstrapstrull\\tripstrapstrull\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|solutionrelative:tripstrapstrull\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|c:\\users\\opilane\\source\\repos\\mobiilirakendused\\tripstrapstrull\\tripstrapstrull\\pages\\rulespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B95F9-93E0-B29B-189F-337A6E7081D7}|TripsTrapsTrull\\TripsTrapsTrull.csproj|solutionrelative:tripstrapstrull\\pages\\rulespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\AppData\\Local\\Temp\\VSGeneratedDocuments\\7a3dde32-1c2d-f91c-f0b2-6338f3ffeadf\\PagesMainPage.xaml.sg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8AF6302-66E6-4D56-A0B0-5BA519057078}|TripsTrapsTrull\\TripsTrapsTrull.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\tripstrapstrull\\tripstrapstrull\\pages\\rulespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8AF6302-66E6-4D56-A0B0-5BA519057078}|TripsTrapsTrull\\TripsTrapsTrull.csproj|solutionrelative:tripstrapstrull\\pages\\rulespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8AF6302-66E6-4D56-A0B0-5BA519057078}|TripsTrapsTrull\\TripsTrapsTrull.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\tripstrapstrull\\tripstrapstrull\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F8AF6302-66E6-4D56-A0B0-5BA519057078}|TripsTrapsTrull\\TripsTrapsTrull.csproj|solutionrelative:tripstrapstrull\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8AF6302-66E6-4D56-A0B0-5BA519057078}|TripsTrapsTrull\\TripsTrapsTrull.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\tripstrapstrull\\tripstrapstrull\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F8AF6302-66E6-4D56-A0B0-5BA519057078}|TripsTrapsTrull\\TripsTrapsTrull.csproj|solutionrelative:tripstrapstrull\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8AF6302-66E6-4D56-A0B0-5BA519057078}|TripsTrapsTrull\\TripsTrapsTrull.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\tripstrapstrull\\tripstrapstrull\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8AF6302-66E6-4D56-A0B0-5BA519057078}|TripsTrapsTrull\\TripsTrapsTrull.csproj|solutionrelative:tripstrapstrull\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8AF6302-66E6-4D56-A0B0-5BA519057078}|TripsTrapsTrull\\TripsTrapsTrull.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\tripstrapstrull\\tripstrapstrull\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8AF6302-66E6-4D56-A0B0-5BA519057078}|TripsTrapsTrull\\TripsTrapsTrull.csproj|solutionrelative:tripstrapstrull\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8AF6302-66E6-4D56-A0B0-5BA519057078}|TripsTrapsTrull\\TripsTrapsTrull.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\tripstrapstrull\\tripstrapstrull\\tripstrapstrull.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F8AF6302-66E6-4D56-A0B0-5BA519057078}|TripsTrapsTrull\\TripsTrapsTrull.csproj|solutionrelative:tripstrapstrull\\tripstrapstrull.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8AF6302-66E6-4D56-A0B0-5BA519057078}|TripsTrapsTrull\\TripsTrapsTrull.csproj|c:\\users\\opilane\\source\\repos\\targe-25_olesk\\mobiilirakendused\\tripstrapstrull\\tripstrapstrull\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8AF6302-66E6-4D56-A0B0-5BA519057078}|TripsTrapsTrull\\TripsTrapsTrull.csproj|solutionrelative:tripstrapstrull\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,7 +73,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,36 +82,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PagesMainPage.xaml.sg.cs [generated]",
-              "DocumentMoniker": "C:\\Users\\opilane\\AppData\\Local\\Temp\\VSGeneratedDocuments\\7a3dde32-1c2d-f91c-f0b2-6338f3ffeadf\\PagesMainPage.xaml.sg.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\VSGeneratedDocuments\\7a3dde32-1c2d-f91c-f0b2-6338f3ffeadf\\PagesMainPage.xaml.sg.cs",
-              "ToolTip": "PagesMainPage.xaml.sg.cs [generated by Microsoft.Maui.Controls.SourceGen.CodeBehindGenerator]",
-              "ViewState": "AgIAABEAAAAAAAAAAAA2wCMAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "OverriddenToolTip": "PagesMainPage.xaml.sg.cs [generated by Microsoft.Maui.Controls.SourceGen.CodeBehindGenerator]",
-              "WhenOpened": "2026-09-28T10:46:52.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\AppShell.xaml",
-              "RelativeDocumentMoniker": "TripsTrapsTrull\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\AppShell.xaml",
-              "RelativeToolTip": "TripsTrapsTrull\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-09-28T10:55:17.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\App.xaml",
               "RelativeDocumentMoniker": "TripsTrapsTrull\\App.xaml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\App.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\App.xaml",
               "RelativeToolTip": "TripsTrapsTrull\\App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -96,11 +94,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "TripsTrapsTrull\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\AppShell.xaml.cs",
               "RelativeToolTip": "TripsTrapsTrull\\AppShell.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -109,37 +107,87 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "RulesPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\Pages\\RulesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\Pages\\RulesPage.xaml.cs",
               "RelativeDocumentMoniker": "TripsTrapsTrull\\Pages\\RulesPage.xaml.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\Pages\\RulesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\Pages\\RulesPage.xaml.cs",
               "RelativeToolTip": "TripsTrapsTrull\\Pages\\RulesPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T10:49:10.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-28T10:49:10.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TripsTrapsTrull",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\TripsTrapsTrull.csproj",
+              "DocumentIndex": 7,
+              "Title": "TripsTrapsTrull.csproj",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\TripsTrapsTrull.csproj",
               "RelativeDocumentMoniker": "TripsTrapsTrull\\TripsTrapsTrull.csproj",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\TripsTrapsTrull.csproj*",
-              "RelativeToolTip": "TripsTrapsTrull\\TripsTrapsTrull.csproj*",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAIwEcAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\TripsTrapsTrull.csproj",
+              "RelativeToolTip": "TripsTrapsTrull\\TripsTrapsTrull.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-28T09:45:02.577Z",
+              "WhenOpened": "2026-09-28T09:45:02.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TripsTrapsTrullPage.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\Pages\\TripsTrapsTrullPage.xaml",
+              "RelativeDocumentMoniker": "TripsTrapsTrull\\Pages\\TripsTrapsTrullPage.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\Pages\\TripsTrapsTrullPage.xaml",
+              "RelativeToolTip": "TripsTrapsTrull\\Pages\\TripsTrapsTrullPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-28T09:35:37.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "RulesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\Pages\\RulesPage.xaml",
+              "RelativeDocumentMoniker": "TripsTrapsTrull\\Pages\\RulesPage.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\Pages\\RulesPage.xaml",
+              "RelativeToolTip": "TripsTrapsTrull\\Pages\\RulesPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-29T09:38:25.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TripsTrapsTrullPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\Pages\\TripsTrapsTrullPage.xaml.cs",
+              "RelativeDocumentMoniker": "TripsTrapsTrull\\Pages\\TripsTrapsTrullPage.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\Pages\\TripsTrapsTrullPage.xaml.cs",
+              "RelativeToolTip": "TripsTrapsTrull\\Pages\\TripsTrapsTrullPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T09:35:54.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\AppShell.xaml",
+              "RelativeDocumentMoniker": "TripsTrapsTrull\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\AppShell.xaml",
+              "RelativeToolTip": "TripsTrapsTrull\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-28T10:55:17.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\App.xaml.cs",
               "RelativeDocumentMoniker": "TripsTrapsTrull\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\App.xaml.cs",
               "RelativeToolTip": "TripsTrapsTrull\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -148,42 +196,87 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\Pages\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "TripsTrapsTrull\\Pages\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\Pages\\MainPage.xaml.cs",
-              "RelativeToolTip": "TripsTrapsTrull\\Pages\\MainPage.xaml.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwDUAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T09:35:54.355Z",
-              "EditorCaption": ""
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TripsTrapsTrull\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TripsTrapsTrull\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-29T11:07:54.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\Pages\\MainPage.xaml",
-              "RelativeDocumentMoniker": "TripsTrapsTrull\\Pages\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\Pages\\MainPage.xaml",
-              "RelativeToolTip": "TripsTrapsTrull\\Pages\\MainPage.xaml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-09-28T09:35:37.431Z",
-              "EditorCaption": ""
+              "DocumentIndex": 10,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "TripsTrapsTrull\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "TripsTrapsTrull\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T11:12:05.319Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\Models\\Game.cs",
-              "RelativeDocumentMoniker": "TripsTrapsTrull\\Models\\Game.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\Models\\Game.cs",
-              "RelativeToolTip": "TripsTrapsTrull\\Models\\Game.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAswF0AAAAAAAAAAAAAAA==",
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "TripsTrapsTrull\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "TripsTrapsTrull\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T09:33:04.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-29T11:12:11.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDelegate.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\Platforms\\iOS\\AppDelegate.cs",
+              "RelativeDocumentMoniker": "TripsTrapsTrull\\Platforms\\iOS\\AppDelegate.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\Platforms\\iOS\\AppDelegate.cs",
+              "RelativeToolTip": "TripsTrapsTrull\\Platforms\\iOS\\AppDelegate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T11:12:28.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "TripsTrapsTrull\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\MauiProgram.cs",
+              "RelativeToolTip": "TripsTrapsTrull\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T09:39:55.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "TripsTrapsTrull\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\Models\\Game.cs",
+              "RelativeToolTip": "TripsTrapsTrull\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T09:33:04.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PagesMainPage.xaml.sg.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\AppData\\Local\\Temp\\VSGeneratedDocuments\\7a3dde32-1c2d-f91c-f0b2-6338f3ffeadf\\PagesMainPage.xaml.sg.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\VSGeneratedDocuments\\7a3dde32-1c2d-f91c-f0b2-6338f3ffeadf\\PagesMainPage.xaml.sg.cs",
+              "ToolTip": "PagesMainPage.xaml.sg.cs [generated by Microsoft.Maui.Controls.SourceGen.CodeBehindGenerator]",
+              "ViewState": "AgIAABEAAAAAAAAAAAA2wCMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenToolTip": "PagesMainPage.xaml.sg.cs [generated by Microsoft.Maui.Controls.SourceGen.CodeBehindGenerator]",
+              "WhenOpened": "2026-09-28T10:46:52.159Z"
             }
           ]
         }

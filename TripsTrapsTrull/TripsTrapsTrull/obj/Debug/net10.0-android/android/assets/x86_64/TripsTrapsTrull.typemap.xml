@@ -1,4 +1,4 @@
-<api type="debug" assembly-name="TripsTrapsTrull" mvid="b85a1ef919ec4e778dbc494ec4e135cc">
+<api type="debug" assembly-name="TripsTrapsTrull" mvid="7ff01c7ef102485993bce41351653145">
   <java-to-managed>
     <entry java-name="crc645cb6fc588c14fec2/MainActivity" managed-name="TripsTrapsTrull.MainActivity, TripsTrapsTrull" managed-type-token-id="33554442" />
     <entry java-name="crc645cb6fc588c14fec2/MainApplication" managed-name="TripsTrapsTrull.MainApplication, TripsTrapsTrull" managed-type-token-id="33554443" />

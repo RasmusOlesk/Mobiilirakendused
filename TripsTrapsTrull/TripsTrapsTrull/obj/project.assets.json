@@ -28999,11 +28999,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\TripsTrapsTrull.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\TripsTrapsTrull.csproj",
       "projectName": "TripsTrapsTrull",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\TripsTrapsTrull.csproj",
+      "projectPath": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\TripsTrapsTrull.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\TARge-25_Olesk\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\source\\repos\\Mobiilirakendused\\TripsTrapsTrull\\TripsTrapsTrull\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
