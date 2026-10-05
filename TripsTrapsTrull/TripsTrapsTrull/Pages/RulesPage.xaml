@@ -3,43 +3,78 @@
 <ContentPage
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    x:Class="TripsTrapsTrull.RulesPage"
+    x:Class="TripsTrapsTrull.Pages.RulesPage"
     Title="Reeglid">
 
     <ScrollView>
         <VerticalStackLayout
             Padding="25"
-            Spacing="15">
+            Spacing="20">
 
             <Label
                 Text="Trips-Traps-Trulli reeglid"
                 FontSize="28"
                 FontAttributes="Bold"
-                HorizontalOptions="Center" />
+                HorizontalOptions="Center"
+                TextColor="Black" />
 
             <Label
-                Text="1. Mäng toimub 3x3 mängulaual."
-                FontSize="18" />
+                Text="Mängu eesmärk"
+                FontSize="22"
+                FontAttributes="Bold"
+                TextColor="DarkBlue" />
 
             <Label
-                Text="2. Üks mängija kasutab sümbolit X ja teine sümbolit O."
-                FontSize="18" />
+                Text="Mängu eesmärk on saada kolm enda märki järjest. Märgid võivad olla horisontaalselt, vertikaalselt või diagonaalselt."
+                FontSize="17"
+                TextColor="Black" />
 
             <Label
-                Text="3. Mängijad teevad kordamööda käike."
-                FontSize="18" />
+                Text="Kuidas mängida?"
+                FontSize="22"
+                FontAttributes="Bold"
+                TextColor="DarkBlue" />
 
             <Label
-                Text="4. Võidab mängija, kes saab kolm enda sümbolit järjest horisontaalselt, vertikaalselt või diagonaalselt."
-                FontSize="18" />
+                Text="• Mängus on kaks mängijat: X ja O.&#10;&#10;• Mängijad teevad kordamööda käike.&#10;&#10;• Vali mängulaual tühi ruut, kuhu soovid oma märgi panna.&#10;&#10;• X on punane ja O on sinine.&#10;&#10;• Ühte ruutu saab märkida ainult ühe korra."
+                FontSize="17"
+                TextColor="Black" />
 
             <Label
-                Text="5. Kui kõik ruudud on täidetud ja keegi ei ole võitnud, on tulemuseks viik."
-                FontSize="18" />
+                Text="Võitmine"
+                FontSize="22"
+                FontAttributes="Bold"
+                TextColor="DarkBlue" />
 
             <Label
-                Text="6. Nupust „Uus mäng“ saab alustada uut mängu."
-                FontSize="18" />
+                Text="Võidab mängija, kes saab esimesena kolm enda märki järjest."
+                FontSize="17"
+                TextColor="Black" />
+
+            <Label
+                Text="Näiteks: XXX horisontaalselt, vertikaalselt või diagonaalselt."
+                FontSize="17"
+                FontAttributes="Italic"
+                TextColor="DarkBlue" />
+
+            <Label
+                Text="Viik"
+                FontSize="22"
+                FontAttributes="Bold"
+                TextColor="DarkBlue" />
+
+            <Label
+                Text="Kui kõik mängulaua ruudud on täidetud, kuid kumbki mängija ei ole saanud kolme märki järjest, lõpeb mäng viigiga."
+                FontSize="17"
+                TextColor="Black" />
+
+            <Button
+                Text="Tagasi mängu"
+                FontSize="18"
+                BackgroundColor="DarkBlue"
+                TextColor="White"
+                CornerRadius="10"
+                Clicked="Back_Clicked" />
 
         </VerticalStackLayout>
     </ScrollView>

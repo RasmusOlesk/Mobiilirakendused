@@ -12,15 +12,28 @@ public class Game
     public int OWins { get; private set; }
     public int Draws { get; private set; }
 
+    public int GamesPlayed
+    {
+        get { return XWins + OWins + Draws; }
+    }
+
     public Game()
     {
+        LoadStatistics();
         Reset();
     }
 
     public void Reset()
     {
+        Reset("X");
+    }
+
+    public void Reset(string startingPlayer)
+    {
         Board = new string[3, 3];
-        CurrentPlayer = "X";
+
+        CurrentPlayer = startingPlayer;
+
         GameOver = false;
     }
 
@@ -43,6 +56,8 @@ public class Game
             else
                 OWins++;
 
+            SaveStatistics();
+
             return true;
         }
 
@@ -50,6 +65,9 @@ public class Game
         {
             GameOver = true;
             Draws++;
+
+            SaveStatistics();
+
             return true;
         }
 
@@ -60,7 +78,6 @@ public class Game
 
     public bool CheckWin(string player)
     {
-        // Read
         for (int row = 0; row < 3; row++)
         {
             if (Board[row, 0] == player &&
@@ -69,7 +86,6 @@ public class Game
                 return true;
         }
 
-        // Veerud
         for (int column = 0; column < 3; column++)
         {
             if (Board[0, column] == player &&
@@ -78,7 +94,6 @@ public class Game
                 return true;
         }
 
-        // Diagonaalid
         if (Board[0, 0] == player &&
             Board[1, 1] == player &&
             Board[2, 2] == player)
@@ -105,4 +120,30 @@ public class Game
 
         return true;
     }
+
+    private void SaveStatistics()
+    {
+        Preferences.Default.Set("XWins", XWins);
+        Preferences.Default.Set("OWins", OWins);
+        Preferences.Default.Set("Draws", Draws);
+    }
+
+    private void LoadStatistics()
+    {
+        XWins = Preferences.Default.Get("XWins", 0);
+        OWins = Preferences.Default.Get("OWins", 0);
+        Draws = Preferences.Default.Get("Draws", 0);
+    }
+
+    public void ResetStatistics()
+    {
+        XWins = 0;
+        OWins = 0;
+        Draws = 0;
+
+        Preferences.Default.Set("XWins", 0);
+        Preferences.Default.Set("OWins", 0);
+        Preferences.Default.Set("Draws", 0);
+    }
+
 }

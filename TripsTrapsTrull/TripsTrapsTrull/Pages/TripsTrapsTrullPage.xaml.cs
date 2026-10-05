@@ -109,20 +109,25 @@ public partial class MainPage : ContentPage
 
     private async void WhoStarts_Clicked(object sender, EventArgs e)
     {
-        bool xStarts = Random.Shared.Next(2) == 0;
-
         await DisplayAlertAsync(
             "Kes alustab?",
-            xStarts ? "X alustab!" : "O alustab!",
+            $"{game.CurrentPlayer} alustab!",
             "OK");
-
-        StartNewGame();
     }
+
 
     private async void Rules_Clicked(object sender, EventArgs e)
     {
         await Navigation.PushAsync(new RulesPage());
+
     }
+
+    private async void Statistics_Clicked(object sender, EventArgs e)
+    {
+        await Navigation.PushAsync(new StatisticsPage(game));
+    }
+
+
 
     private void UpdateUI()
     {
@@ -151,5 +156,23 @@ public partial class MainPage : ContentPage
             $"X: {game.XWins}   O: {game.OWins}   Viigid: {game.Draws}";
     }
 
+    public void UpdateStatisticsUI()
+    {
+        UpdateUI();
+    }
 
+    protected override void OnAppearing()
+    {
+        base.OnAppearing();
+
+        UpdateUI();
+    }
+
+
+
+
+}
+
+internal class RulesPage : Page
+{
 }

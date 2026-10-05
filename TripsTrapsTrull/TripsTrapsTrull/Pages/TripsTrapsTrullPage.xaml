@@ -47,19 +47,61 @@
 
         <HorizontalStackLayout
             HorizontalOptions="Center"
+            Padding="20"
             Spacing="10">
 
             <Button
                 Text="Uus mäng"
+                CornerRadius="10"
+                WidthRequest="100"
+                FontSize="12"
+                Margin="0,10,0,0"
                 Clicked="NewGame_Clicked" />
-
+                
             <Button
                 Text="Kes alustab?"
+                CornerRadius="10"
+                WidthRequest="100"
+                FontSize="12"
+                Margin="0,10,0,0"
                 Clicked="WhoStarts_Clicked" />
+
+            <Button
+                Text="Reeglid"
+                CornerRadius="10"
+                WidthRequest="100"
+                FontSize="12"
+                Margin="0,10,0,0"
+                Clicked="Rules_Clicked" />  
+            
+            
+            
+                
+
 
         </HorizontalStackLayout>
 
-  
+        <HorizontalStackLayout
+            HorizontalOptions="Center"
+            Padding="20"
+            Spacing="10">
+
+         <Button
+            Text="Statistika"
+            WidthRequest="250"
+             
+            HeightRequest="55"
+            FontSize="18"
+            BackgroundColor="Purple"
+            TextColor="White"
+            CornerRadius="10"
+            Clicked="Statistics_Clicked" /> 
+        
+         </HorizontalStackLayout>
+        
+        
+
+
 
         <Label
             x:Name="ScoreLabel"

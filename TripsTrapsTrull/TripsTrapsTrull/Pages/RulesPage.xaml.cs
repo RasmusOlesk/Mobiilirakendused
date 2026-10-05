@@ -1,4 +1,3 @@
-
 namespace TripsTrapsTrull.Pages;
 
 public partial class RulesPage : ContentPage
@@ -8,8 +7,8 @@ public partial class RulesPage : ContentPage
         InitializeComponent();
     }
 
-    private void InitializeComponent()
+    private async void Back_Clicked(object sender, EventArgs e)
     {
-        throw new NotImplementedException();
+        await Navigation.PopAsync();
     }
 }
