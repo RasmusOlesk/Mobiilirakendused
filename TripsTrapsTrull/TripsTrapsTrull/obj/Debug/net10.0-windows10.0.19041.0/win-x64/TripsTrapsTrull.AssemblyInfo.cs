@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TripsTrapsTrull")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+62995fe835e090f2f1d8359ff90525215e3b2910")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+fd89cdc924007becc5bc0a14d93e786a65422524")]
 [assembly: System.Reflection.AssemblyProductAttribute("TripsTrapsTrull")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TripsTrapsTrull")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

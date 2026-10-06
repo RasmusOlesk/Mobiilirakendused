@@ -173,6 +173,3 @@ public partial class MainPage : ContentPage
 
 }
 
-internal class RulesPage : Page
-{
-}

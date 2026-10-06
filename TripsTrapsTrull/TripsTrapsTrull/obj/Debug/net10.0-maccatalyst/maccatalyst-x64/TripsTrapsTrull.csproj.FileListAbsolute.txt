@@ -255,6 +255,10 @@ C:\Users\opilane\source\repos\Mobiilirakendused\TripsTrapsTrull\TripsTrapsTrull\
 C:\Users\opilane\source\repos\Mobiilirakendused\TripsTrapsTrull\TripsTrapsTrull\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-nativeaot.a
 C:\Users\opilane\source\repos\Mobiilirakendused\TripsTrapsTrull\TripsTrapsTrull\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.a
 C:\Users\opilane\source\repos\Mobiilirakendused\TripsTrapsTrull\TripsTrapsTrull\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.dylib
+C:\Users\opilane\source\repos\Mobiilirakendused\TripsTrapsTrull\TripsTrapsTrull\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.HotReload.Forms.dll
+C:\Users\opilane\source\repos\Mobiilirakendused\TripsTrapsTrull\TripsTrapsTrull\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
+C:\Users\opilane\source\repos\Mobiilirakendused\TripsTrapsTrull\TripsTrapsTrull\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\Microsoft.VisualStudio.DesignTools.TapContract.dll
+C:\Users\opilane\source\repos\Mobiilirakendused\TripsTrapsTrull\TripsTrapsTrull\bin\Debug\net10.0-maccatalyst\maccatalyst-x64\Microsoft.VisualStudio.DesignTools.XamlTapContract.dll
 C:\Users\opilane\source\repos\Mobiilirakendused\TripsTrapsTrull\TripsTrapsTrull\obj\Debug\net10.0-maccatalyst\maccatalyst-x64\TripsTrapsTrull.csproj.AssemblyReference.cache
 C:\Users\opilane\source\repos\Mobiilirakendused\TripsTrapsTrull\TripsTrapsTrull\obj\Debug\net10.0-maccatalyst\maccatalyst-x64\partialappmanifest\_PartialAppManifests.items
 C:\Users\opilane\source\repos\Mobiilirakendused\TripsTrapsTrull\TripsTrapsTrull\obj\Debug\net10.0-maccatalyst\maccatalyst-x64\unpack\Microsoft.Maui.Essentials\BundleResource\xml\microsoft_maui_essentials_fileprovider_file_paths.xml
